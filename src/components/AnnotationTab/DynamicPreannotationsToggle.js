@@ -46,7 +46,7 @@ export const DynamicPreannotationsToggle = injector(observer(({
                 ToolsManager.allInstances().forEach(inst => inst.selectDefault());
               }
             }}
-            label="Auto-Annotation"
+            label="自动标注123123"
             style={{ color: '#7F64FF' }}
           />
           {suggestions.size > 0 && (
